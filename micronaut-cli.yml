@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: hello.mn.fn
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
